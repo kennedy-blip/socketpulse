@@ -2,4 +2,4 @@ npm
 run
 dev
 npm
-instal
+install
