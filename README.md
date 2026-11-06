@@ -4,4 +4,4 @@ dev
 npm
 install
 git
-fi
+fix
