@@ -7,4 +7,4 @@ git
 fix
 errors
 git
-cl
+cle
