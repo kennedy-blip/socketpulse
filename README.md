@@ -5,4 +5,4 @@ npm
 install
 git
 fix
-e
+er
