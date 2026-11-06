@@ -6,4 +6,4 @@ install
 git
 fix
 errors
-gi
+git
