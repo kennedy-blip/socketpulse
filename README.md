@@ -3,3 +3,4 @@ run
 dev
 npm
 install
+g
