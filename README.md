@@ -8,3 +8,4 @@ fix
 errors
 git
 clear
+c
