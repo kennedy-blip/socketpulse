@@ -3,4 +3,4 @@ run
 dev
 npm
 install
-gi
+git
